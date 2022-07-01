@@ -1,0 +1,39 @@
+body{
+    margin: 0%;
+    background-image: url(https://images.pexels.com/photos/326279/pexels-photo-326279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+    
+}
+h1{
+    color: rgba(14, 93, 230, 0.952);
+    text-shadow: 0 0 100 darkcyan;
+    margin-left: 20%;
+}
+.main{
+    margin: 10px 70px;
+    background-color: rgba(211, 218, 230, 0.349);
+}
+.Personal {
+    margin-top: 10%px;
+
+    
+}
+.Personal input{
+    border-radius: 10%;
+    border-color: red;
+}
+label{
+    margin: 10%;
+}
+input{
+    padding: 10px;
+}
+button{
+    margin: 10% 20%;
+    padding-left: 40px;
+    background-color: cyan;
+    color: darkblue;
+    cursor: pointer;
+}
